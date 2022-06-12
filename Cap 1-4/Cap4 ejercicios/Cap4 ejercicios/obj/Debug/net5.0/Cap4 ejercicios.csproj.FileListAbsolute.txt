@@ -1,0 +1,5 @@
+C:\Users\Lora\OneDrive\Escritorio\Ejercicios cap\Cap4 ejercicios\Cap4 ejercicios\obj\Debug\net5.0\Cap4 ejercicios.csproj.AssemblyReference.cache
+C:\Users\Lora\OneDrive\Escritorio\Ejercicios cap\Cap4 ejercicios\Cap4 ejercicios\obj\Debug\net5.0\Cap4 ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lora\OneDrive\Escritorio\Ejercicios cap\Cap4 ejercicios\Cap4 ejercicios\obj\Debug\net5.0\Cap4 ejercicios.AssemblyInfoInputs.cache
+C:\Users\Lora\OneDrive\Escritorio\Ejercicios cap\Cap4 ejercicios\Cap4 ejercicios\obj\Debug\net5.0\Cap4 ejercicios.AssemblyInfo.cs
+C:\Users\Lora\OneDrive\Escritorio\Ejercicios cap\Cap4 ejercicios\Cap4 ejercicios\obj\Debug\net5.0\Cap4 ejercicios.csproj.CoreCompileInputs.cache

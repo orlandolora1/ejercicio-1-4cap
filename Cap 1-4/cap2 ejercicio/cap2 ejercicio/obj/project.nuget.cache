@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ka+c2FUmXJYJleAZF9xD3Dv6lSO0WmreU32EzB0QXxLLE8KZPuD7qSzdzi257XdKJT0MEoBkJtQPojUYAgBryg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lora\\OneDrive\\Escritorio\\Ejercicios cap\\cap2 ejercicio\\cap2 ejercicio\\cap2 ejercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lora\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
